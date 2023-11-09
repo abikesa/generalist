@@ -6,7 +6,7 @@ In terms of America's cultural exports, music is a major player. American artist
 
 Evidence of this can be found in international sales and streaming data, where American artists often lead the way. Additionally, the proliferation of American music festivals and the presence of American artists at international festivals further exemplify the global influence of American music. 
 
-Critically speaking, the American music industry has seen inversions in its history, where genres that were once underground or marginalized have moved to the forefront of the cultural consciousness. This can be seen in the rise of Hip-Hop from the streets of New York to global dominance, overtaking genres like Rock and Pop in terms of sales and cultural influence.
+`Critically` speaking, the American music industry has seen inversions in its history, where genres that were once underground or marginalized have moved to the forefront of the cultural consciousness. This can be seen in the rise of Hip-Hop from the streets of New York to global dominance, overtaking genres like Rock and Pop in terms of sales and cultural influence.
 
 Applying the framework of deductive and inductive reasoning:
 
