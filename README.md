@@ -1,3 +1,19 @@
+The terms you're looking for that describe the movement from specific detail to general utility and vice versa are "deduction" and "induction."
+
+1. **`D`eductive Reasoning (`D`eduction from `D`ata):** This is the process of reasoning from one or more statements (premises) to reach a logically certain conclusion. It starts with a general statement or hypothesis and examines the possibilities to reach a specific, logical conclusion. Deduction moves from general utility to specific detail.
+
+2. **Inductive Reasoning (Induction from `I`nference):** This method of reasoning starts with observations and moves from specific instances to a generalized conclusion. Inductive reasoning is often used to form hypotheses and theories. Induction moves from specific detail to general utility.
+
+In the context of your instance from `spirit of music`, these terms can be applied as follows:
+
+- **Induction** could be used when you start with specific musical pieces or elements (like a particular use of the Dorian mode in a song) and from there, generalize about the mode's emotional impact or its use across different genres.
+
+- **Deduction** might be applied when you begin with the general concept of the Dorian mode and predict how it will be used in a specific composition or genre, or what kind of emotional impact it might create in those specific contexts.
+
+The categorization of musical elements and genres you've outlined is an excellent example of how both deductive and inductive reasoning can apply to music theory and history, moving from the broad understanding of musical theory to specific examples, and vice versa.
+
+---
+
 Generalist:
 1. Move from specific detail to general utility
 2. Or general utility to specific detail
