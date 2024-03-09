@@ -1,2 +1,2 @@
-- Ian C. Johnston, [Generalist](https://en.wikipedia.org/wiki/Ian_C._Johnston)
+- [Ian C. Johnston](https://www.youtube.com/watch?v=lQn-GCUi-F0), [Generalist](https://en.wikipedia.org/wiki/Ian_C._Johnston)
 - Author of life-changing [translation](https://en.wikisource.org/wiki/An_Attempt_at_Self-Criticism) of "An Attempt at Self-Criticism"
