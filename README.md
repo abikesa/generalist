@@ -1,2 +1,5 @@
-- [Ian C. Johnston](https://www.youtube.com/watch?v=lQn-GCUi-F0), [Generalist](https://en.wikipedia.org/wiki/Ian_C._Johnston)
-- Author of life-changing [translation](https://en.wikisource.org/wiki/An_Attempt_at_Self-Criticism) of "An Attempt at Self-Criticism"
+                              1. f(t)
+                                    \
+                         2. S(t) -> 4. X -> 5. b -> 6. SV 
+                                    /
+                                    3. h(t)
