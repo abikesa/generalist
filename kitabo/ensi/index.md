@@ -110,6 +110,14 @@ That's an insightful analogy! The collective unconscious as analogous to latent 
 ### Sing O Muse 4
 ### Apollo 5, 6
 
+```{margin}
+- **$f(t<T)$** Exposition, backstory
+- **$S(T>t)$** Prospects & narrative arc
+- **$h(t)$** Opportunities & tools 
+- **$X$** Collective unconscious
+- **$\beta$** Algorithm, rule-book, wisdom
+- **$SV'$** Personal application
+```
 
 In this framework:
 
