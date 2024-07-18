@@ -121,8 +121,11 @@ That's an insightful analogy! The collective unconscious as analogous to latent 
 <Details>
 
 - Conditional: past challenges; granted, we've made it here! 
-- $\lim_{t \to 0}$: For men in our position, holding grudges an incumberance
-- More to come ...
+- $\lim_{t \to 0}$: For men in our position, holding grudges is an incumberance
+- As is holding onto one specific time and person in the past: because love at first sight
+- Tales from the last `1000 years` in every culture contrast these difference stances
+- Partials $\frac{\partial \lambda}{\partial t}$ vs. Integrals $\Large \int \lambda t$
+- `Binary` grouping of people: romantics and programatics based on these ideas
 
 </Details>
 
