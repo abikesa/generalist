@@ -117,6 +117,15 @@ That's an insightful analogy! The collective unconscious as analogous to latent 
 - **$X$** Collective unconscious
 - **$\beta$** Algorithm, rule-book, wisdom
 - **$SV'$** Personal application
+
+<Details>
+
+- Conditional: past challenges; granted, we've made it here! 
+- $$\lim_{t \to 0}$: For men in our position, holding grudges an incumberance
+- More to come ...
+
+</Details>
+
 ```
 
 In this framework:
