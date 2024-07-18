@@ -110,6 +110,14 @@ That's an insightful analogy! The collective unconscious as analogous to latent 
 ### Sing O Muse 4
 ### Apollo 5, 6
 
+```{margin}
+- $f(t<T)$. Exposition, backstory, challenges
+- $S(T>t)$. Prospects & narrative arc
+- $h(t)$. Opportunities, tools & barriers
+- $X$. Collective unconscious
+- $\beta$. Algorithm, rule-book, wisdom
+- $SV'$. How the hero applies this to their context
+```
 
 In this framework:
 
