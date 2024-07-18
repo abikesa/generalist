@@ -124,7 +124,7 @@ That's an insightful analogy! The collective unconscious as analogous to latent 
 - $\lim_{t \to 0}$: For men in our position, holding grudges is an incumberance
 - As is holding onto one specific time and person in the past: because love at first sight
 - Tales from the last `1000 years` in every culture contrast these difference stances
-- Partials $\frac{\partial \lambda}{\partial t}$ vs. Integrals $\Large \int \lambda t$
+- Partials $\Large \frac{\partial \lambda}{\partial t}$ vs. Integrals $\Large \int \lambda t$
 - `Binary` grouping of people: romantics and programatics based on these ideas
 
 </Details>
